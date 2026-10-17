@@ -1,12 +1,3 @@
-# Calcular la edad a partir del año de nacimiento
+# Este archivo se moviÃ³ a Ejercicios secuenciales python/CalcularEdadAPartirDelYearDeNacimiento.psc
 
-year_actual = 2026
-
-print("Para saber tu edad ingrese los datos solicitado(s) a continuación")
-
-print("Ingrese su Año de nacimiento")
-year_nacimiento = int(input())
-
-edad = year_actual - year_nacimiento
-
-print("Su edad es", edad)
+Ver: https://github.com/Monnsun/Programaci-n-/blob/main/Ejercicios%20secuenciales%20python/CalcularEdadAPartirDelYearDeNacimiento.psc

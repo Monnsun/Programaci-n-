@@ -1,10 +1,3 @@
-# Convertir Celsius a Fahrenheit
+# Este archivo se movió a Ejercicios secuenciales python/ConvertirCelsiusAFahrenheit.psc
 
-print("Convertir Celsius a Fahrenheit.")
-
-print("Ingrese los Celsius que desea convertir")
-celsius = float(input())
-
-formula = (celsius * 1.8) + 32
-
-print(formula, "F")
+Ver: https://github.com/Monnsun/Programaci-n-/blob/main/Ejercicios%20secuenciales%20python/ConvertirCelsiusAFahrenheit.psc

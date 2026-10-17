@@ -1,13 +1,3 @@
-# Calcular el perímetro de un rectángulo
+# Este archivo se moviÃ³ a Ejercicios secuenciales python/CalcularElPerimetroDeUnRectangulo.psc
 
-print("Calcular el perímetro de un rectángulo. Ingrese la base y la altura (por separado)")
-
-print("Ingrese la base")
-base = float(input())
-
-print("Ingrese la altura")
-altura = float(input())
-
-perimetro = 2 * (base + altura)
-
-print("El perimetro del rectangulo es", perimetro, "cm")
+Ver: https://github.com/Monnsun/Programaci-n-/blob/main/Ejercicios%20secuenciales%20python/CalcularElPerimetroDeUnRectangulo.psc

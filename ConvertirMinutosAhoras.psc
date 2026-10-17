@@ -1,10 +1,3 @@
-# Convertir minutos a horas
+# Este archivo se movió a Ejercicios secuenciales python/ConvertirMinutosAhoras.psc
 
-print("Convertir minutos a horas")
-
-print("Ingrese los minutos")
-minutos = float(input())
-
-formula = minutos / 60
-
-print("La conversion es", formula, "h")
+Ver: https://github.com/Monnsun/Programaci-n-/blob/main/Ejercicios%20secuenciales%20python/ConvertirMinutosAhoras.psc

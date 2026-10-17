@@ -1,16 +1,3 @@
-# Calcular el promedio de tres notas
+# Este archivo se movió a Ejercicios secuenciales python/CalcularPromedioTresDeNotas (1).psc
 
-print("Ingrese la nota de la materia 1, 2 y 3 (una por una)")
-
-print("Nota de la materia 1")
-m1 = float(input())
-
-print("Nota de la materia 2")
-m2 = float(input())
-
-print("Nota de la materia 3")
-m3 = float(input())
-
-promedio = (m1 + m2 + m3) / 3
-
-print("Su promedio es", promedio)
+Ver: https://github.com/Monnsun/Programaci-n-/blob/main/Ejercicios%20secuenciales%20python/CalcularPromedioTresDeNotas%20(1).psc
