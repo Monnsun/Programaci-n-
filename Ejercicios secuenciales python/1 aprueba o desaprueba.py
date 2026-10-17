@@ -1,13 +1,3 @@
-# Determinar si un aprendiz aprueba o desaprueba Algoritmia, 
-# sabiendo que aprobará si su promedio de tres calificaciones es mayor o igual a 70; 
-# reprueba en caso contrario. 
+# Este archivo se movió a ../ejercicios_condicionales_python/1%20aprueba%20o%20desaprueba.py
 
-print("= Ingrses sus notas entre 100 y 0 ==================================I")
-nota1 = int(input("= Ingrese el numero de su primera nota: "))
-nota2 = int(input("= Ingrese el numero de su segunda nota: "))
-nota3 = int(input("= Ingrese el numero de su tercera nota: "))
-nota = (nota1 + nota2 + nota3) // 3
-if nota >= 70:
-    print("= Aprobado, su promedio es: ", nota)
-else:
-    print("= Desaprobado, su promedio es: ", nota)
+Ver: https://github.com/Monnsun/Programaci-n-/blob/main/ejercicios_condicionales_python/1%20aprueba%20o%20desaprueba.py
